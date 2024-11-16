@@ -11,6 +11,12 @@ All of them can be installed with `pip install -r py/requirements.txt`, then it 
 python -m py.tui.main /path/to/tty
 ```
 
+
+### CPP
+The "battery_management_system_protocol.h" library file has been created in the src directory
+It requires: https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime
+
+
 ### Non Python Parsing
 For other languages you can use the compiler, for example:
 ```terminal
