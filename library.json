@@ -1,0 +1,14 @@
+{
+  "name": "bms-parser",
+  "version": "0.5.0",
+  "description": "kaitai based library for generic BMS communication",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/JoshTW/bms-parser.git"
+  },
+  "dependencies":
+  {
+    "external-repo": "https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime.git"
+  }
+}
