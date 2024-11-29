@@ -9,6 +9,6 @@
   },
   "dependencies":
   {
-    "external-repo": "https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime.git"
+    "external-repo": "https://github.com/JoshTW/kaitai_struct_cpp_stl_runtime.git"
   }
 }
